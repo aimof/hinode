@@ -143,7 +143,7 @@
 		// notification
 		"notificationCenterHeader.background": "#00173D",
 		"notifications.background": "#002E60",
-		"notificationLink.foreground": "#F9A383",
+		"notificationLink.foreground": "#ABC900",
 		"notificationsErrorIcon.foreground": "#E86B79",
 		"notificationsWarningIcon.foreground": "#745399",
 		// terminal
@@ -297,7 +297,7 @@
 				"keyword.other.special-method"
 			],
 			"settings": {
-				"foreground": "#F9A383"
+				"foreground": "#E86B79"
 			}
 		},
 		{
@@ -397,7 +397,7 @@
 				"variable.other.class.js"
 			],
 			"settings": {
-				"foreground": "#F9A383"
+				"foreground": "#E86B79"
 			}
 		},
 		{
@@ -407,7 +407,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#F9A383"
+				"foreground": "#E86B79"
 			}
 		},
 		{
