@@ -6,6 +6,11 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ## [Unreleased]
 
+## [0.0.5] 2021-01-13
+### Added
+- debug colors
+- README previews
+
 ## [0.0.4] 2021-01-12
 ### Fixed
 - some mistakes

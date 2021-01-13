@@ -169,6 +169,31 @@
 		"terminalCursor.background": "#000822",
 		"terminalCursor.foreground": "#BBBCBF",
 		"terminal.border": "#BBBCBF",
+		// debug
+		"debugTokenExpression.name": "#EE9D19",
+		"debugTokenExpression.value": "#FBFBF6",
+		"debugTokenExpression.string": "#84B9CB",
+		"debugTokenExpression.boolean": "#5AC2D9",
+		"debugTokenExpression.number": "#5AC2D9",
+		"debugTokenExpression.error": "#E86B79",
+		"debugView.exceptionLabelBackground": "#D13939",
+		"debugConsole.errorForeground": "#E86B79",
+		"debugConsole.warningForeground": "#ECE038",
+		"debugConsole.infoForeground": "#ABC900",
+		// symbol icons
+		// debug icons
+		"debugIcon.breakpointForeground": "#D13939",
+		"debugIcon.breakpointDisabledForeground": "#B12929",
+		"debugIcon.breakpointUnverifiedForeground": "#B12929",
+		"debugIcon.restartForeground": "#ABC900",
+		"debugIcon.stopForeground": "#D13939",
+		"debugIcon.startForeground": "#ABC900",
+		"debugIcon.pauseForeground": "#84B9CB",
+		"debugIcon.disconnectForeground": "#84B9CB",
+		"debugIcon.stepOutForeground": "#84B9CB",
+		"debugIcon.stepIntoForeground": "#84B9CB",
+		"debugIcon.stepOverForeground": "#84B9CB",
+		"debugIcon.stepBackForeground": "#84B9CB",
 	},
 	"tokenColors": [
 		{
