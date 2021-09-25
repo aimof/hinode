@@ -6,6 +6,12 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ## [Unreleased]
 
+## [0.0.7] 2021-09-26
+### changed
+- Some colors
+- Link text color
+- Preview images
+
 ## [0.0.6] 2021-01-13
 ### Changed
 - icon improvements

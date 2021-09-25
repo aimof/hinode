@@ -3,7 +3,7 @@
     "displayName": "Hinode Theme",
     "description": "Hinode is a color theme like sunrise.",
     "publisher": "aimof",
-    "version": "0.0.6",
+    "version": "0.0.7",
     "engines": {
         "vscode": "^1.52.0"
     },
